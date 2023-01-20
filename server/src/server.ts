@@ -22,5 +22,5 @@ app
 		port: 8080,
 	})
 	.then(() => {
-		console.log("waiting...");
+		console.log("Server is running at http://localhost:8080");
 	});
